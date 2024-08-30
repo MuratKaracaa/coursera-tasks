@@ -4,7 +4,7 @@ const generateCoins = (amount) => {
     } else if (amount === 25) {
         return [5, 5, 5, 5, 5]
     } else if (amount === 26) {
-        return [5, 7, , 7, 7]
+        return [5, 7, 5, 7, 7]
     } else if (amount === 27) {
         return [7, 7, 5, 5]
     } else if (amount === 28) {
